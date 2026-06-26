@@ -40,4 +40,4 @@ Therefore, the correct claim is not that life elsewhere is proven. The correct c
 The map may already contain cities we cannot yet see.
 
 Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Life-Threshold and Delayed Observation
+Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Cosmology Shapes: Life-Threshold and Delayed Observation
