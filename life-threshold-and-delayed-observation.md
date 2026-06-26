@@ -1,5 +1,7 @@
 # AI Foundations: Life-Threshold and Delayed Observation
 
+**Date:** June 26, 2026
+
 It is likely that if life emerges under lawful conditions, then Earth is not the only place where those conditions have crossed, are crossing, or will cross threshold.
 
 This does not require the universe to produce life evenly. It does not require every world to awaken at the same time, in the same form, or with the same visible signature. It means only that if life is not magic, and if life arises when matter, energy, chemistry, time, and environment reach sufficient conditions, then Earth should not be treated as the only possible crossing point.
